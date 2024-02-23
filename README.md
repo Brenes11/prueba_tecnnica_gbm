@@ -41,4 +41,4 @@ La función minimumJumps recibe un arreglo testCases que contiene las sumas que 
 
 PRUEBAS UNITARIAS
 
-Para ejecutar las pruebas unitarias del ejercicio 3 ejecute el comando npm run test 
+Para ejecutar las pruebas unitarias de todos los ejercicios ejecute el comando npm run test 

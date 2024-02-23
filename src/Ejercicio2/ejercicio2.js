@@ -1,5 +1,5 @@
 const fs = require('fs');
-let input = fs.readFileSync('./src/output_files/ourputfileEj2.txt').toString().trim().split('\n')
+let input = fs.readFileSync('./src/Ejercicio2/output_files/ourputfileEj2.txt').toString().trim().split('\n')
 let cleanData = input.map(data=>data.replace(/\r/g, ''));
 let currentLine = 0;
 

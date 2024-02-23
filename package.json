@@ -4,10 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node ./src/ejercicio3.js",
-    "ej3": "node ./src/ejercicio3.js",
-    "ej2.1": "node ./src/ejer2.js",
-    "ej2": "node ./src/ejercicio2.js",
+    "ej1": "node ./src/Ejercicio1/ejercicio1.js",
+    "ej3": "node ./src/Ejercicio3/ejercicio3.js",
+    "ej2": "node ./src/Ejercicio2/ejercicio2.js",
     "test": "jest"
   },
   "keywords": [],
